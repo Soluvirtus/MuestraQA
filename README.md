@@ -10,8 +10,8 @@ Para lograrlo, hemos llevado a cabo un exhaustivo proceso de pruebas de calidad 
 
 - **Funcionalidad Básica**: Validamos todas las funcionalidades principales de la aplicación, garantizando que cada componente funcione según lo esperado.
 - **Experiencia del Usuario**: Probamos la aplicación desde la perspectiva del usuario final, asegurando una navegación intuitiva y una experiencia satisfactoria.
-- **Rendimiento del Sistema**: Evaluamos la velocidad y eficiencia de la aplicación bajo diferentes condiciones de carga y uso.
-- **Seguridad**: Nos aseguramos de que todos los datos de los usuarios estén protegidos y que la aplicación cumpla con las normativas de privacidad.
+- **Pruebas de APIs**: Utilizamos Postman para probar y validar las APIs, asegurando una comunicación eficiente entre los diferentes componentes de la aplicación.
+- **Análisis de Backend**: Evaluamos la arquitectura y el rendimiento del backend para garantizar una infraestructura robusta y escalable.
 
 ### Herramientas y Tecnologías Utilizadas
 
